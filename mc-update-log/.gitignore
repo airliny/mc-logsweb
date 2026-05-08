@@ -1,0 +1,13 @@
+# ============================================
+# MC Update Log - Git Ignore
+# 删除此文件夹即可安全上传到 GitHub
+# ============================================
+
+# 用户数据（数据库 + 上传的图片）
+data/
+
+# 旧版上传目录（已迁移到 data/）
+assets/images/
+assets/avatars/
+assets/content/
+assets/uploads/
